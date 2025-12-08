@@ -6,5 +6,5 @@ function calculate(a, b, callback) {
 }
 
 calculate(5, 7, function (res) {
-  console.log("Result:", res);   // output : 12 
+  console.log("Result:", res); // output : 12
 });
